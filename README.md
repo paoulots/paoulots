@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a software developer
 <!--
 **paoulots/paoulots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📋 Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,python)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,python)
